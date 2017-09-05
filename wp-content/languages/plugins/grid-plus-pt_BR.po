@@ -1,0 +1,636 @@
+# Translation of Plugins - Grid Plus &#8211; Unlimited grid layout - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Grid Plus &#8211; Unlimited grid layout - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-28 00:44:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Grid Plus &#8211; Unlimited grid layout - Stable (latest release)\n"
+
+#: partials/data-source.php:93
+msgid "Category filter multi line?"
+msgstr "Filtro de categorias com várias linhas?"
+
+#. Plugin URI of the plugin/theme
+msgid "http://themes.g5plus.net/plugins/grid/"
+msgstr "http://themes.g5plus.net/plugins/grid/"
+
+#: partials/layout-config.php:161
+msgid "Disable Link"
+msgstr "Desabilitar links"
+
+#: partials/data-source.php:80
+msgid "Show category"
+msgstr "Mostrar categoria"
+
+#: partials/animation.php:20
+msgid "Zoom In"
+msgstr "Aproximar"
+
+#: partials/animation.php:19
+msgid "Slide In Up"
+msgstr "Deslizar de cima"
+
+#: partials/animation.php:18
+msgid "Flip Horizontal"
+msgstr "Virar horizontalmente"
+
+#: partials/animation.php:17
+msgid "Fade In Right"
+msgstr "Aparecer da direita"
+
+#: partials/animation.php:16
+msgid "Fade In Left"
+msgstr "Aparecer da esquerda"
+
+#: partials/animation.php:15
+msgid "Fade In Down"
+msgstr "Aparecer de baixo"
+
+#: partials/animation.php:14
+msgid "Fade In Up"
+msgstr "Aparecer de cima"
+
+#: partials/animation.php:13
+msgid "Bounce In Up"
+msgstr "Pular de cima"
+
+#: partials/animation.php:12
+msgid "Bounce In Right"
+msgstr "Pular da direita"
+
+#: partials/animation.php:11
+msgid "Bounce In Left"
+msgstr "Pular da esquerda"
+
+#: partials/animation.php:10
+msgid "Bounce In Down"
+msgstr "Pular de baixo"
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/g5theme"
+msgstr "http://themeforest.net/user/g5theme"
+
+#. Author of the plugin/theme
+msgid "G5Theme"
+msgstr "G5Theme"
+
+#: partials/pagination.php:50
+msgid "Set empty for display all"
+msgstr "Deixe vazio para exibir tudo"
+
+#: partials/layout-config.php:150
+msgid "Dynamic Crop Image"
+msgstr "Imagem de recorte dinâmico"
+
+#: partials/color.php:95
+msgid "Title hover color"
+msgstr "Título ao passar o mouse"
+
+#: partials/color.php:77
+msgid "Icon hover color"
+msgstr "Ícone ao passar o mouse"
+
+#: partials/color.php:50
+msgid "No image background color"
+msgstr "Cor de fundo sem imagem"
+
+#: partials/carousel.php:98
+msgid "Image ratio (width x height)"
+msgstr "Relação da imagem (largura x altura)"
+
+#: partials/carousel.php:45 partials/carousel.php:54 partials/carousel.php:63
+#: partials/carousel.php:72 partials/carousel.php:81 partials/carousel.php:90
+msgid "Min width (pixel):"
+msgstr "Largura mínima (pixels):"
+
+#: skins/woo-thumb-icon-cat-title-price-rate.php:18
+#: skins/woo-thumb-icon-title-price.php:18
+#: skins/woo-thumb-title-price-icon.php:19
+msgid "Hot"
+msgstr "Quente"
+
+#: skins/woo-thumb-icon-cat-title-price-rate.php:17
+#: skins/woo-thumb-icon-title-price.php:17
+#: skins/woo-thumb-title-price-icon.php:18
+msgid "Sale"
+msgstr "Oferta"
+
+#. Description of the plugin/theme
+msgid "Grid Plus - Unlimited grid layout for any post type."
+msgstr "Grid Plus - Layouts em grade ilimitados para qualquer tipo de post."
+
+#: shortcodes/templates/category.php:27
+msgid "All"
+msgstr "Tudo"
+
+#: shortcodes/carousel-shortcode.php:239 shortcodes/grid-shortcode.php:226
+msgid "Could not find this template"
+msgstr "Não foi possível encontrar este modelo"
+
+#: partials/settings.php:53
+msgid "Color & CSS"
+msgstr "Cor e CSS"
+
+#: partials/settings.php:47
+msgid "Skin option"
+msgstr "Opção de aparência"
+
+#: partials/settings.php:41
+msgid "Animation"
+msgstr "Animação"
+
+#: partials/settings.php:35
+msgid "Pagination"
+msgstr "Paginação"
+
+#: partials/settings.php:29
+msgid "Carousel option"
+msgstr "Opção do Carrossel"
+
+#: partials/settings.php:23
+msgid "Data Source"
+msgstr "Origem dos dados"
+
+#: partials/settings.php:17
+msgid "Grid Config"
+msgstr "Configuração da Grade"
+
+#: partials/pagination.php:67
+msgid "Load more text"
+msgstr "Texto de Carregar mais"
+
+#: partials/pagination.php:61
+msgid "Next text"
+msgstr "Texto para Seguinte"
+
+#: partials/pagination.php:55
+msgid "Prev text"
+msgstr "Texto para Anterior"
+
+#: partials/pagination.php:46
+msgid "Total items"
+msgstr "Total de ítens"
+
+#: partials/pagination.php:39
+msgid "Item per page"
+msgstr "Item por página"
+
+#: partials/pagination.php:34
+msgid "Show All"
+msgstr "Mostrar tudo"
+
+#: partials/pagination.php:33
+msgid "Infinite scroll"
+msgstr "Rolagem infinita"
+
+#: partials/pagination.php:32
+msgid "Load more button"
+msgstr "Botão de Carregar mais"
+
+#: partials/pagination.php:31
+msgid "Page Numbers"
+msgstr "Números das páginas"
+
+#: partials/pagination.php:28
+msgid "Pagination type"
+msgstr "Tipo de paginação"
+
+#: partials/pagination.php:17
+msgid "Next"
+msgstr "Próximo"
+
+#: partials/listing.php:58 partials/tmpl.php:82
+msgid "Delete"
+msgstr "Excluir"
+
+#: partials/listing.php:57 partials/tmpl.php:81
+msgid "Clone"
+msgstr "Clonar"
+
+#: partials/listing.php:56 partials/tmpl.php:80
+msgid "Edit"
+msgstr "Editar"
+
+#: partials/listing.php:37
+msgid "Actions"
+msgstr "Ações"
+
+#: partials/listing.php:36
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: partials/listing.php:35
+msgid "Name"
+msgstr "Nome"
+
+#: partials/listing.php:34
+msgid "ID"
+msgstr "ID"
+
+#: partials/listing.php:23
+msgid "Import"
+msgstr "Importar"
+
+#: partials/listing.php:17
+msgid "Please select .json file and click import to import grid"
+msgstr "Selecione o arquivo .json e clique em 'Importar' para importar a grade"
+
+#: partials/layout.php:12
+msgid "The post title"
+msgstr "O título do post"
+
+#: partials/layout-config.php:138
+msgid "Fixed item height"
+msgstr "Altura do item fixa"
+
+#: partials/layout-config.php:132
+msgid "Please click generate layout after change gutter"
+msgstr "Clique em 'Gerar layout' após a mudança do espaçamento"
+
+#: partials/layout-config.php:119
+msgid "Gutter"
+msgstr "Espaço interno"
+
+#: partials/layout-config.php:113
+msgid "Please click generate layout after change layout type to update grid column"
+msgstr "Clique em 'Gerar layout' após a mudança de tipo de layout para atualizar a coluna da grade"
+
+#: partials/layout-config.php:100
+msgid "Grid columns"
+msgstr "Colunas da grade"
+
+#: partials/layout-config.php:95
+msgid "Please click generate layout after change layout type to update item width"
+msgstr "Clique em 'Gerar layout' após a mudança de tipo de layout para atualizar a largura do item"
+
+#: partials/layout-config.php:82
+msgid "Grid type"
+msgstr "Tipo de grade"
+
+#: partials/layout-config.php:77
+msgid "Grid name is identity"
+msgstr "O nome da grade é a identidade"
+
+#: partials/layout-config.php:73
+msgid "Grid name"
+msgstr "Nome da grade"
+
+#: partials/layout-config.php:68
+msgid "Click icon clipboard to copy and paste shortcode to page or anywhere"
+msgstr "Clique no ícone da área de transferência para copiar e colar o shortcode numa página ou em qualquer lugar"
+
+#: partials/layout-config.php:63 partials/listing.php:51
+msgid "Copy to clipboard"
+msgstr "Copiar para a área de transferência"
+
+#: partials/layout-config.php:58
+msgid "Grid Shortcode"
+msgstr "Shortcode da grade"
+
+#: partials/layout-config.php:52
+msgid "Grid ID"
+msgstr "ID da grade"
+
+#: partials/layout-config.php:44
+msgid "New Grid"
+msgstr "Nova grade"
+
+#: partials/layout-config.php:39
+msgid "30 pixel"
+msgstr "30 pixels"
+
+#: partials/layout-config.php:38
+msgid "20 pixel"
+msgstr "20 pixels"
+
+#: partials/layout-config.php:37
+msgid "15 pixel"
+msgstr "15 pixels"
+
+#: partials/layout-config.php:36
+msgid "10 pixel"
+msgstr "10 pixels"
+
+#: partials/layout-config.php:35
+msgid "5 pixel"
+msgstr "5 pixels"
+
+#: partials/layout-config.php:31
+msgid "6 Columns"
+msgstr "6 colunas"
+
+#: partials/layout-config.php:30
+msgid "5 Columns"
+msgstr "5 colunas"
+
+#: partials/layout-config.php:29
+msgid "4 Columns"
+msgstr "4 colunas"
+
+#: partials/layout-config.php:28
+msgid "3 Columns"
+msgstr "3 colunas"
+
+#: partials/layout-config.php:27
+msgid "2 Columns"
+msgstr "2 colunas"
+
+#: partials/layout-config.php:24
+msgid "Carousel"
+msgstr "Carrossel"
+
+#: partials/layout-config.php:23
+msgid "Masonry"
+msgstr "Masonry"
+
+#: partials/layout-config.php:22
+msgid "Grid"
+msgstr "Grade"
+
+#: partials/data-source.php:152
+msgid "By Page Order (Menu Order)"
+msgstr "Pela ordem da página (ordem do menu)"
+
+#: partials/data-source.php:150
+msgid "Random order"
+msgstr "Ordem aleatória"
+
+#: partials/data-source.php:149
+msgid "By date"
+msgstr "Pela data"
+
+#: partials/data-source.php:148
+msgid "By post name (post slug)"
+msgstr "Pelo nome do post (slug do post)"
+
+#: partials/data-source.php:146
+msgid "By title"
+msgstr "Pelo título"
+
+#: partials/data-source.php:145
+msgid "By author"
+msgstr "Pelo autor"
+
+#: partials/data-source.php:144
+msgid "By post id"
+msgstr "Pelo ID do post"
+
+#: partials/data-source.php:143
+msgid "Select Order"
+msgstr "Selecionar ordem"
+
+#: partials/data-source.php:135
+msgid "Descending"
+msgstr "Decrescente"
+
+#: partials/data-source.php:134
+msgid "Ascending"
+msgstr "Crescente"
+
+#: partials/data-source.php:118
+msgid "Select post by input post title and press enter"
+msgstr "Selecione post pelo título do post de entrada e pressione enter"
+
+#: partials/data-source.php:114
+msgid "Exclude Post"
+msgstr "Excluir post"
+
+#: partials/data-source.php:103
+msgid "Select author"
+msgstr "Selecionar o autor"
+
+#: partials/data-source.php:99
+msgid "Author(s)"
+msgstr "Autor(es)"
+
+#: partials/data-source.php:87
+msgid "Center"
+msgstr "Centralizado"
+
+#: partials/data-source.php:86
+msgid "Right"
+msgstr "Á direita"
+
+#: partials/data-source.php:85
+msgid "Left"
+msgstr "À esquerda"
+
+#: partials/animation.php:9 partials/data-source.php:84
+#: partials/layout-config.php:34
+msgid "None"
+msgstr "Nenhum"
+
+#: partials/data-source.php:60
+msgid "Select category"
+msgstr "Escolher categoria"
+
+#: partials/data-source.php:56
+msgid "Categories"
+msgstr "Categorias"
+
+#: partials/data-source.php:43
+msgid "Post type"
+msgstr "Tipo de post"
+
+#: partials/color.php:115
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: partials/color.php:104
+msgid "Excerpt color"
+msgstr "Cor do resumo"
+
+#: partials/color.php:86
+msgid "Title color"
+msgstr "Cor do título"
+
+#: partials/color.php:68
+msgid "Icon color"
+msgstr "Cor do ícone"
+
+#: partials/color.php:59
+msgid "Background hover color"
+msgstr "Cor de fundo ao passar o mouse"
+
+#: partials/color.php:41
+msgid "Category filter hover color"
+msgstr "Cor do filtro de categoria ao passar o mouse"
+
+#: partials/color.php:32
+msgid "Category filter color"
+msgstr "Cor do filtro de categoria"
+
+#: partials/carousel.php:164
+msgid "Previous Text"
+msgstr "Texto para 'Anterior'"
+
+#: partials/carousel.php:157
+msgid "Next Text"
+msgstr "Texto para 'Seguinte'"
+
+#: partials/carousel.php:138
+msgid "( miliseconds )"
+msgstr "( milissegundos )"
+
+#: partials/carousel.php:135
+msgid "Autoplay Time"
+msgstr "Tempo da reprodução automática"
+
+#: partials/carousel.php:128
+msgid "Autoplay Hover Pause"
+msgstr "Pausa na reprodução automática ao passar o mouse"
+
+#: partials/carousel.php:121
+msgid "Autoplay"
+msgstr "Reprodução automática"
+
+#: partials/carousel.php:114
+msgid "Loop"
+msgstr "Repetir"
+
+#: partials/carousel.php:107
+msgid "Is right to left"
+msgstr "Da direita para a esquerda"
+
+#: partials/carousel.php:87
+msgid "Mobile columns"
+msgstr "Colunas no smartphone"
+
+#: partials/carousel.php:78
+msgid "Tablet small columns"
+msgstr "Colunas pequenas no tablet"
+
+#: partials/carousel.php:69
+msgid "Tablet columns"
+msgstr "Colunas no tablet"
+
+#: partials/carousel.php:60
+msgid "Desktop small columns"
+msgstr "Colunas pequenas no computador"
+
+#: partials/carousel.php:51
+msgid "Desktop medium columns"
+msgstr "Colunas médias no computador"
+
+#: partials/carousel.php:42
+msgid "Desktop large columns"
+msgstr "Colunas grandes no computador"
+
+#: partials/bar/listing-bar.php:18
+msgid "Refresh grid"
+msgstr "Atualizar grade"
+
+#: partials/bar/listing-bar.php:11
+msgid "Listing layout"
+msgstr "Layout em lista"
+
+#: partials/bar/layout-bar.php:16 partials/bar/submit-bar.php:12
+msgid "Save Layout"
+msgstr "Salvar layout"
+
+#: partials/bar/layout-bar.php:15
+msgid "Change style"
+msgstr "Alterar estilo"
+
+#: partials/bar/layout-bar.php:14
+msgid "Add Item"
+msgstr "Adicionar item"
+
+#: partials/bar/layout-bar.php:13
+msgid "Generate Layout"
+msgstr "Gerar layout"
+
+#: partials/bar/layout-bar.php:12
+msgid "Change image ratio"
+msgstr "Modificar relação da imagem"
+
+#: partials/bar/layout-bar.php:10 partials/bar/submit-bar.php:10
+#: partials/settings.php:59
+msgid "Layout Builder"
+msgstr "Construtor de layout"
+
+#: partials/animation.php:45
+msgid "Preview"
+msgstr "Prévia"
+
+#: grid-plus.php:267
+msgid "Cannot find grid information"
+msgstr "Não foi possível encontrar a informação da grade"
+
+#: grid-plus.php:261
+msgid "Missing parameter \"name\" in shortcode"
+msgstr "O parâmetro 'nome' do shortcode está faltando"
+
+#: grid-plus.php:129 grid-plus.php:130 partials/bar/listing-bar.php:19
+msgid "Add grid"
+msgstr "Adicionar grade"
+
+#: grid-plus.php:121 grid-plus.php:122
+msgid "All grid"
+msgstr "Todas as grades"
+
+#. #-#-#-#-#  grid-plus-code.pot (Grid Plus 1.1.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: grid-plus.php:111 grid-plus.php:112 partials/grid-editor.php:49
+msgid "Grid Plus"
+msgstr "Grid Plus"
+
+#: core/post-format-ui/templates/tabs.php:24
+msgid "Standard"
+msgstr "Padrão"
+
+#: core/post-format-ui/templates/format-video.php:12
+#: core/post-format-ui/templates/format-video.php:13
+msgid "Video URL (oEmbed) or Embed Code"
+msgstr "URL do vídeo (oEmbed) ou o código de incorporação"
+
+#: core/post-format-ui/templates/format-quote.php:20
+#: core/post-format-ui/templates/format-quote.php:21
+msgid "Author Url"
+msgstr "URL do autor"
+
+#: core/post-format-ui/templates/format-quote.php:16
+#: core/post-format-ui/templates/format-quote.php:17
+msgid "Author Name"
+msgstr "Nome do autor"
+
+#: core/post-format-ui/templates/format-quote.php:12
+#: core/post-format-ui/templates/format-quote.php:13
+msgid "Quote Content"
+msgstr "Conteúdo da citação"
+
+#: core/post-format-ui/templates/format-link.php:16
+#: core/post-format-ui/templates/format-link.php:17
+msgid "Url"
+msgstr "URL"
+
+#: core/post-format-ui/templates/format-link.php:12
+#: core/post-format-ui/templates/format-link.php:13
+msgid "Text"
+msgstr "Texto"
+
+#: core/post-format-ui/templates/format-gallery.php:35
+msgid "+ Add Images"
+msgstr "+ Adicionar imagens"
+
+#: core/post-format-ui/templates/format-audio.php:12
+#: core/post-format-ui/templates/format-audio.php:13
+msgid "Audio URL (oEmbed) or Embed Code"
+msgstr "URL de áudio (oEmbed) ou código de incorporação"
+
+#: core/ajax_be.php:94
+msgid "Cannot find grid information !"
+msgstr "Não é possível encontrar a informação da grade !"
+
+#: core/ajax_be.php:37
+msgid "The grid name already exist. Please change grid name !"
+msgstr "O nome da grade já existe. Mude o nome da grade !"
+
+#: core/ajax_be.php:28
+msgid "Please input grid name !"
+msgstr "Informe o nome da grade !"
